@@ -26,3 +26,5 @@ What if the list contains nested lists?  Write a second function `deep_sum(nums)
 ```python
 deep_sum([1, [2, [3, 4]], 5])  # 15
 ```
+
+> Stuck? Have a code error? Use the ["4 Before Me"](https://docs.google.com/document/d/1nseOs5oabYBKNHfwJZNAR7GlU0zkZxNagsw63AD7XV0/edit) debugging checklist to help you solve it!
